@@ -1,1 +1,8 @@
-{"name":"My Daily Rituals","short_name":"Rituals","start_url":"./index.html","display":"standalone","background_color":"#f7f1e8","theme_color":"#f7f1e8"}
+{
+  "name": "My Daily Rituals",
+  "short_name": "My Rituals",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5eee6",
+  "theme_color": "#702f3e"
+}

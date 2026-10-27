@@ -1,8 +1,18 @@
+
 {
   "name": "My Daily Rituals",
   "short_name": "My Rituals",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f5eee6",
-  "theme_color": "#702f3e"
+  "theme_color": "#702f3e",
+  "icons": [
+    {
+      "src": "./CE1254F4-FFEF-4943-AFEB-5C966C587ADB.PNG",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
+  
